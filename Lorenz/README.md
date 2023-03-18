@@ -2,6 +2,8 @@
 
 Este programa en Python genera una animación del Atractor de Lorenz utilizando la librería ColabTurtlePlus y svgwrite. El código se ejecuta en Colab.
 
+![alt text](https://github.com/Jeidsgn/Dibujos_matematicos/blob/main/Lorenz/files/Animacion_Lorenz.gif)
+
 ## Atractor de Lorenz
 El Atractor de Lorenz es un sistema dinámico caótico en tres dimensiones que fue estudiado por el meteorólogo Edward Lorenz en la década de 1960. El atractor es conocido por su forma característica de mariposa, y es un ejemplo clásico de un sistema dinámico no lineal.
 
