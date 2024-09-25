@@ -10,9 +10,6 @@ Cada proyecto tiene su propio archivo README.
 2. Ejecuta todas las celdas.
 3. Encuentra el archivo SVG generado en tu directorio de trabajo.
 
-#### Créditos
-
-Parte del código se inspira en el blog de [Geoff Boeing](https://pages.github.com/).
 
 #### Licencia
 
